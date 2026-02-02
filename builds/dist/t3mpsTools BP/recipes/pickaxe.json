@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "t3mps:pickaxe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"a": {
+				"item": "minecraft:obsidian"
+			},
+			"b": {
+				"item": "minecraft:stick"
+			}
+		},
+		"pattern": [
+			"aaa",
+			" b ",
+			" b "
+		],
+		"result": {
+			"item": "t3mps:pickaxe"
+		}
+	}
+}

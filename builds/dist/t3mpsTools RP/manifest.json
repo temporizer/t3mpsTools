@@ -1,0 +1,44 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"t3emp0riz3r"
+		]
+	},
+	"header": {
+		"name": "t3mpsTools",
+		"description": "t3mpsTools RP 3.0.2",
+		"min_engine_version": [
+			1,
+			21,
+			120
+		],
+		"uuid": "81dc9663-6e01-46d0-a0ce-3e743dcb2dda",
+		"version": [
+			3,
+			0,
+			2
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "a0633c0d-1a19-46be-938b-cf598e5e4e4d",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "597e2dc4-cc0d-40b0-9c69-c98386f7d992",
+			"version": [
+				3,
+				0,
+				2
+			]
+		}
+	]
+}

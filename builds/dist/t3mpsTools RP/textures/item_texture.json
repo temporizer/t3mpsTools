@@ -1,0 +1,19 @@
+{
+	"texture_data": {
+		"t3mps:paxel": {
+			"textures": "textures/items/paxel"
+		},
+		"t3mps:pickaxe": {
+			"textures": "textures/items/pickaxe"
+		},
+		"t3mps:axe": {
+			"textures": "textures/items/axe"
+		},
+		"t3mps:shovel": {
+			"textures": "textures/items/shovel"
+		},
+		"t3mps:sword": {
+			"textures": "textures/items/sword"
+		}
+	}
+}
