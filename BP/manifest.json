@@ -7,13 +7,13 @@
 	},
 	"header": {
 		"name": "t3mpsTools",
-		"description": "t3mps Tools 3.0.2",
+		"description": "t3mps Tools 3.0.3",
 		"min_engine_version": [
 			1,
 			21,
 			120
 		],
-		"uuid": "597e2dc4-cc0d-40b0-9c69-c98386f7d992",
+		"uuid": "9b550b31-e91f-4562-98da-b1f7cb3df55f",
 		"version": [
 			3,
 			0,
@@ -23,7 +23,7 @@
 	"modules": [
 		{
 			"type": "data",
-			"uuid": "fceeb042-9a54-4d77-81d9-b45e7c49c4fa",
+			"uuid": "4d371781-6f9f-4acc-9275-661356a43791",
 			"version": [
 				1,
 				0,
@@ -33,7 +33,7 @@
 	],
 	"dependencies": [
 		{
-			"uuid": "81dc9663-6e01-46d0-a0ce-3e743dcb2dda",
+			"uuid": "7bd16a69-319c-489a-9312-980a17e06cb6",
 			"version": [
 				3,
 				0,
