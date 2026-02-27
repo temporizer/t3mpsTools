@@ -21,3 +21,10 @@
 ### Removed
 
 - removed duplicate shulker_box trade in cleric_trades
+
+
+## [3.0.3]
+
+### Changed
+
+- moved rockets within toolsmith_trades
